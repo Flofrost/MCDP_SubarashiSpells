@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "#P#",
+        "GGG"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:experience_bottle"
+        },
+        "P": {
+            "item": "minecraft:phantom_membrane"
+        },
+        "G": {
+            "item": "minecraft:paper"
+        }
+    },
+    "result": {
+        "item": "minecraft:knowledge_book",
+        "count": 1
+    }
+}
